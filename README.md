@@ -1,5 +1,8 @@
 # NodeMCU-OLED-APSTA-Config
 
+![NodeMCU + OLED SSD1306](./nodemcu_oled_apsta_config.jpeg)
+
+
 ## Sistem IoT NodeMCU ESP8266 dengan Konfigurasi WiFi & API melalui Access Point (AP)
 
 Proyek ini mengimplementasikan sistem Internet of Things ($\text{IoT}$) menggunakan mikrokontroler **$\text{NodeMCU ESP8266}$** yang dilengkapi dengan layar **$\text{OLED SSD1306}$**. Fitur utamanya adalah sistem konfigurasi yang fleksibel: kredensial $\text{WiFi}$ dan $\text{URL API}$ disimpan di $\text{EEPROM}$ dan dapat diatur ulang kapan saja melalui mode **Access Point (AP) *Setup***.
